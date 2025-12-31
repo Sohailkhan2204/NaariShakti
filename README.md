@@ -19,7 +19,7 @@ To clone the repository to your local machine, use the following command:
 - Step-1
 bash
 
-git clone https://github.com/ShanawazS-bit/NariRakshak/
+git clone https://github.com/Sohailkhan2204/NaariShakti.git
 
 
 - Step -2
@@ -57,5 +57,6 @@ Team Name: HackSmith
 ---
 Authors: Sohail Khan, Shanawaz Sharif, Vagisha Kumari, Anandita Gupta
 ---
-Email: sharifshanawaz100@gmail.com
+Email: sohailsk2204@gmail.com
 ---
+
